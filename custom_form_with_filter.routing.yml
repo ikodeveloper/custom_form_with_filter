@@ -1,0 +1,7 @@
+form_iko.form:
+  path: '/ikode'
+  defaults:
+    _title: 'Выберите ваш вариант'
+    _form: '\Drupal\custom_form_with_filter\Form\FormIko'
+  requirements:
+    _permission: 'access content'

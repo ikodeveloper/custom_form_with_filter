@@ -1,0 +1,6 @@
+name: Custom form with filter
+description: 'Custom form with filter for test job.'
+type: module
+core: 8.x
+version: 1.0
+package: Examples
